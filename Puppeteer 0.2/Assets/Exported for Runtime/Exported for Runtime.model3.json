@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Exported for Runtime.moc3",
+		"Textures": [
+			"Exported for Runtime.4096/texture_00.png"
+		],
+		"Physics": "Exported for Runtime.physics3.json",
+		"DisplayInfo": "Exported for Runtime.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}

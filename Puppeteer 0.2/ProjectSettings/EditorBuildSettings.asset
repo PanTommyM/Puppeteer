@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Puppeteer.unity
+    guid: cfb9ada766b10e6448e4b6aeaa61e5fa
   m_configObjects: {}
